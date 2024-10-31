@@ -1,12 +1,12 @@
 {
-  "name": "Zynxzoo",
+  "name": "ERROR",
   "version": "12.0.0",
   "description": "base",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zynxzoo",
+  "author": "ERROR",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
